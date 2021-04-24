@@ -1,0 +1,11 @@
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\obj\Debug\LiveUpdate.csproj.CoreCompileInputs.cache
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\bin\Debug\LiveUpdate.exe.config
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\bin\Debug\LiveUpdate.exe
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\bin\Debug\LiveUpdate.pdb
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\bin\Debug\EntityFramework.dll
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\bin\Debug\EntityFramework.xml
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\obj\Debug\LiveUpdate.csproj.CopyComplete
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\obj\Debug\LiveUpdate.exe
+C:\Users\van-d\source\repos\LiveUpdate\LiveUpdate\obj\Debug\LiveUpdate.pdb
